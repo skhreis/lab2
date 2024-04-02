@@ -1,0 +1,13 @@
+.feedback{
+    text-align: center;
+}
+
+.lastrow{
+    padding: 15px;
+    height: 150px;
+}
+
+.textarea{
+    width: 95%;
+    height: 95%;
+}
